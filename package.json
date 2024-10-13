@@ -1,0 +1,17 @@
+{
+  "name": "Scrim-s01qplb",
+  "description": "https://v2.scrimba.com/build-a-color-tool-in-vanilla-javascript-c01n/~00",
+  "scripts": {
+    "watch": "webpack -w",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "webpack": "^2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0",
+    "babel-loader": "^7.0",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*"
+  }
+}
